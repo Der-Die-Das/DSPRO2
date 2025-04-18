@@ -4,3 +4,13 @@ pyarrow
 fsspec
 matplotlib
 huggingface_hub
+transformers
+datasets
+torch
+accelerate
+evaluate
+scikit-learn
+peft
+bitsandbytes
+trl
+sentencepiece
